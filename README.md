@@ -1,1 +1,1 @@
-# node-js-api
+Simple node.js api with mongoDb communication

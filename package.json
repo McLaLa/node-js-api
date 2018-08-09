@@ -1,0 +1,19 @@
+{
+  "name": "node-js-api-package",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3",
+    "mongodb": "^2.2.19",
+    "nodemon": "^1.18.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "test",
+    "start": "node server.js"
+  },
+  "author": "",
+  "license": "ISC"
+}

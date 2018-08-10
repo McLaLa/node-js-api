@@ -1,1 +1,1 @@
-Simple node.js api with mongoDb communication
+Simple node.js api with mongoDb connection
